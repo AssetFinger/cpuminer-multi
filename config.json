@@ -1,0 +1,10 @@
+{
+    "url": "stratum+tcp://yescrypt.sea.zergpool.com:6233",
+    "user": "17udtshjoGc9SemFGagqBccx6Mjgob3SyU",
+    "pass": "c=BSV,ID=TermuxNiki",
+    "algo": "yescrypt",
+    "threads": 4,
+    "retries": 5,
+    "retry-pause": 10,
+    "quiet": false
+}
